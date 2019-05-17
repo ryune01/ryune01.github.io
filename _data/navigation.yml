@@ -5,17 +5,17 @@
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image:
   
-  - title: Title2
+- title: Title2
   url: /title2/
   excerpt: "About title 2"
   image:
   
-  - title: Title3
+- title: Title3
   url: /title3/
   excerpt: "About title 3"
   image:
   
-  - title: Title4
+- title: Title4
   url: /title4/
   excerpt: "About title 4"
   image:
