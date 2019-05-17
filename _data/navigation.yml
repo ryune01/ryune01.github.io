@@ -6,6 +6,16 @@
   image:
   
   - title: Title2
-  url: /Title_2/
+  url: /title_2/
   excerpt: "About title 2"
+  image:
+  
+  - title: Title3
+  url: /title_3/
+  excerpt: "About title 3"
+  image:
+  
+  - title: Title4
+  url: /title_4/
+  excerpt: "About title 4"
   image:
