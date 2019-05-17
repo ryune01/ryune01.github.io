@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "Blog of ryune01"
-description: "This is a description of my awesome site."
+title: Blog of ryune01
+description: "현재 테스트 및 업데이트용 개인 블로그입니다."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: temp_teaser.gif # 400x250 px default teaser image used in image archive grid
 locale: kr
 url: "https://ryune01.github.io"
 feed:
