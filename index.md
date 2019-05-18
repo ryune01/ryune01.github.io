@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "일단 메인 페이지" #"Latest Posts"
 ---
 
 <div class="tiles">
